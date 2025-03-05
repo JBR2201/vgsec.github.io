@@ -24,6 +24,6 @@
 </head>
 <body>
   <div class="warning">DANGER!</div>
-  <div class="message">This QR code could have led to a malicious website. Always be cautious!</div>
+  <div class="message">This QR code could have led to a malicious website. Always be cautious! Remember you are our first line of defence!</div>
 </body>
 </html>
